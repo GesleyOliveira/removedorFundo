@@ -1,0 +1,27 @@
+# Ambiente virtual
+venv/
+.env/
+.venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.temp
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Diretórios de IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Outros
+*.bak
